@@ -1,10 +1,9 @@
 # Python plotter for xplot (.xpl) files
 
 ## xplot_plotly_combo.ipynb
-I've simply adjusted what was written in https://github.com/tohojo/xplot.py 
-into a plotly syntax instead of matplotlib and made it a jupyter
-notebook. I've likely done this very poorly, but it seems to
-work...
+I've simply modified what was written in https://github.com/tohojo/xplot.py 
+into plotly syntax and made it a jupyter notebook. I've likely done this very 
+poorly, but it seems to work...
 
 ## xplot.py (Original)
 This is a basic implementation of (a subset of) the xplot .xpl format
